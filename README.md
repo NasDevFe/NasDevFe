@@ -1,4 +1,4 @@
-<h2 align="center" style="color:blue">Hi 👋, I'm 𝐍𝐚𝐬𝐞𝐞𝐫 𝓪𝓴𝓪 𝑵𝒂𝒔𝑫𝒆𝒗𝑭𝒆</h2>
+<h2 align="center" style="color:blue">Hi 👋, I'm 𝐍𝐚𝐬𝐞𝐞𝐫 𝓪𝓴𝓪 𝑵𝒂𝒔𝑫𝒆𝒗𝑭𝒆 ☺️</h2>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.</h3>
 <h4 align="center" style="color:red">𝒲𝓮𝓁𝒸𝓸𝓂𝓮 𝓉𝓸 𝓂𝓎 𝓅𝓇𝓸𝒻𝒾𝓁𝓮</h4>
 
