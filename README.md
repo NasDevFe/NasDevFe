@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **𝐇𝐓𝐌5 , 𝐂𝐒𝐒3, 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭(𝐄𝐒6) 𝐚𝐧𝐝 𝐑𝐞𝐚𝐜𝐭𝐣𝐬.**
 
-- 📫 How to reach me [&lt;E-mail Address&gt;](syednaseerq@gmail.com)
+- 📫 Reach Me at My &lt;[E-Mail Address](syednaseerq@gmail.com)&gt;
 
 - ⚡ Fun fact **𝐈 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐩𝐥𝐚𝐲 ***𝐜𝐫𝐢𝐜𝐤𝐞𝐭*** 🏏 𝐚𝐧𝐝 ***𝐜𝐡𝐞𝐬𝐬*** ♖.**
 
