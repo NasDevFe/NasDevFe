@@ -18,8 +18,6 @@
 
 - 🤝 I’m looking for help with **𝑭𝒊𝒏𝒅𝒊𝒏𝒈 𝒂 𝑹𝑷𝑨 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑱𝒐𝒃**
 
-- 👨‍💻 All of my projects are available at [My Personal Website](https://nasdevfe.github.io/Portofolio-Website/)
-
 - 💬 Ask me about **𝑹𝑷𝑨, 𝑼𝒊𝑷𝒂𝒕𝒉, 𝑶𝒓𝒄𝒉𝒆𝒔𝒕𝒓𝒂𝒕𝒐𝒓, 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝑪𝒍𝒐𝒖𝒅 𝒂𝒏𝒅 𝑹𝑬-𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌.**
 
 - 📫 Reach Me at ***syednaseerq@gmail.com***
