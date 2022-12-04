@@ -1,6 +1,6 @@
-<h2 align="center" style="color:blue">Hi 👋, I'm 𝐍𝐚𝐬𝐞𝐞𝐫 𝓪𝓴𝓪 𝑵𝒂𝒔𝑫𝒆𝒗𝑭𝒆 ☺️</h2>
+<h1 align="center" style="color:blue">Hi 👋, I'm 𝐍𝐚𝐬𝐞𝐞𝐫 𝓪𝓴𝓪 𝑵𝒂𝒔𝑫𝒆𝒗𝑭𝒆 ☺️</h1>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑹𝑷𝑨 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.</h3>
-<h3 align="center" style="color:red">𝒲𝓮𝓁𝒸𝓸𝓂𝓮 𝓉𝓸 𝓂𝓎 𝓅𝓇𝓸𝒻𝒾𝓁𝓮</h3>
+<h3 align="center" style="color:red">🆆🅴🅻🅲🅾🅼🅴 ​ 🆃🅾 ​ 🅼🆈 ​ 🅿🆁🅾🅵🅸🅻🅴</h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/syednaseerq" target="blank"><img src="https://img.shields.io/twitter/follow/syednaseerq?logo=twitter&style=for-the-badge" alt="syednaseerq" /></a> </p>
 
-- 🔭 I’m currently working on **𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
+- 🔭 I’m currently working on **𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
 
 - 🌱 I’m currently learning **𝑹𝑬-𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌**
 
