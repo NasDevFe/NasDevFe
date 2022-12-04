@@ -1,5 +1,5 @@
 <h2 align="center" style="color:blue">Hi 👋, I'm 𝐍𝐚𝐬𝐞𝐞𝐫 𝓪𝓴𝓪 𝑵𝒂𝒔𝑫𝒆𝒗𝑭𝒆 ☺️</h2>
-<h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.</h3>
+<h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑹𝑷𝑨 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.</h3>
 <h4 align="center" style="color:red">𝒲𝓮𝓁𝒸𝓸𝓂𝓮 𝓉𝓸 𝓂𝓎 𝓅𝓇𝓸𝒻𝒾𝓁𝓮</h4>
 
 <br>
@@ -10,17 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/syednaseerq" target="blank"><img src="https://img.shields.io/twitter/follow/syednaseerq?logo=twitter&style=for-the-badge" alt="syednaseerq" /></a> </p>
 
-- 🔭 I’m currently working on **𝑷𝒂𝒔𝒉𝒂𝑷𝒂𝒚 𝑷𝒂𝒚𝒎𝒆𝒏𝒕𝒔 𝑾𝒆𝒃𝒔𝒊𝒕𝒆**
+- 🔭 I’m currently working on **𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
 
-- 🌱 I’m currently learning **𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 𝐚𝐧𝐝 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞.**
+- 🌱 I’m currently learning **𝑹𝑬-𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌**
 
-- 👯 I’m looking to collaborate on **𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬.**
+- 👯 I’m looking to collaborate on **𝑼𝒊𝑷𝒂𝒕𝒉 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔**
 
-- 🤝 I’m looking for help with **𝐑𝐞𝐚𝐜𝐭 𝐂𝐥𝐚𝐬𝐬-𝐛𝐚𝐬𝐞𝐝 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬.**
+- 🤝 I’m looking for help with **𝑭𝒊𝒏𝒅𝒊𝒏𝒈 𝒂 𝑹𝑷𝑨 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑱𝒐𝒃**
 
 - 👨‍💻 All of my projects are available at [My Personal Website](https://nasdevfe.github.io/Portofolio-Website/)
 
-- 💬 Ask me about **𝐇𝐓𝐌5 , 𝐂𝐒𝐒3, 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭(𝐄𝐒6) 𝐚𝐧𝐝 𝐑𝐞𝐚𝐜𝐭𝐣𝐬.**
+- 💬 Ask me about **𝑹𝑷𝑨, 𝑼𝒊𝑷𝒂𝒕𝒉, 𝑶𝒓𝒄𝒉𝒆𝒔𝒕𝒓𝒂𝒕𝒐𝒓, 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝑪𝒍𝒐𝒖𝒅 𝒂𝒏𝒅 𝑹𝑬-𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌.**
 
 - 📫 Reach Me at ***syednaseerq@gmail.com***
 
