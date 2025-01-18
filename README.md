@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Naseer (NasDevFe)
+# ⚡ 👋 Hello Digital World! I'm Naseer (NasDevFe) ⚡
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6C47FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Data+Analyst+%F0%9F%93%8A;Insights+Explorer+%F0%9F%94%8D;Visualization+Artist+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9)
+
+</div>
 
 <div align="center">
   
@@ -12,18 +18,18 @@
 
 ### 🎯 Current Focus
 
-- 🔭 Building a comprehensive **Data Analytics Portfolio**
-- 🌱 Mastering **Advanced SQL** concepts and techniques
-- 🤝 Seeking collaborations on **Power BI Projects**
-- 💼 Actively pursuing my first role as a **Data Analyst**
+- 🔭 Building a comprehensive **Data Analytics Portfolio**.
+- 🌱 Mastering **Advanced SQL** concepts and techniques.
+- 🤝 Seeking collaborations on **Power BI Projects**.
+- 💼 Actively pursuing my first role as a **Data Analyst**.
 
 ### 💡 Expertise
 
-- 📊 **Data Analysis**: Excel, Power BI, SQL
-- 🐍 **Programming**: Python
-- 📈 **Visualization**: Data Modeling, Storytelling
-- 🎨 **Web Development**: HTML, CSS, JavaScript
-- 🔄 **Version Control**: Git
+- 📊 **Data Analysis**: Excel, Power BI, SQL.
+- 🐍 **Programming**: Python.
+- 📈 **Visualization**: Data Modeling, Storytelling.
+- 🎨 **Web Development**: HTML, CSS, JavaScript.
+- 🔄 **Version Control**: Git, Github, Azure.
 
 ### 📫 Let's Connect!
 
@@ -50,9 +56,9 @@
 
 ### ⚡ Fun Facts
 
-- 🏏 Passionate about **Cricket**
-- ♖ Strategic **Chess** player
-- 📚 Lifelong learner
+- 🏏 Passionate about **Cricket**.
+- ♖ Strategic **Chess** Player.
+- 📚 Lifelong learner.
 
 ### 📊 GitHub Stats
 
