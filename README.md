@@ -70,10 +70,17 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasdevfe&theme=radical)
 
-</div>
 
----
+
+
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+<h3 align="center">💫 Every dataset tells a story, I'm just the storyteller 💫</h3>
 
 <div align="center">
-  <i>Let's turn data into decisions! 📊✨</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
+<h5 align="center"><i>🔍🚀Transforming data into actionable insights, one dataset at a time. 📊💡</i></h5>
+
