@@ -1,4 +1,4 @@
-# ⚡ 👋 Hello Digital World! I'm Naseer (NasDevFe) ⚡
+# 👋 Hey there, Digital Detective 🕵️‍♂️!  I'm Naseer Syed Qadri ⚡📊
 
 <div align="center">
   
