@@ -53,6 +53,26 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+<div>
+<div align="left">
+  <h2 style="color: #4CAF50; font-family: 'Arial', sans-serif;">
+  <img alt="GIF" src="Trophy.gif" width="30px" style="list-style-type:none">My Various Certifications</h2>
+  </div>
+  
+  <div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="Google Data Analytics Certificate - Coursera.jpg" target="_blank">
+  <img height="160px" src="Google Data Analytics Certificate - Coursera.jpg" alt="Google Data Analytics Certificate"/>
+  </a>
+  <a href="Excel Bootcamp Certificate.jpg" target="_blank">
+  <img height="150px" src="Excel Bootcamp Certificate.jpg" alt="Excel Bootcamp Certificate"/>
+  </a>
+  <a href="PowerBI Bootcamp Certificate.jpg" target="_blank">
+  <img height="150px" src="PowerBI Bootcamp Certificate.jpg" alt="PowerBI Bootcamp Certificate"/>
+  </a>
+  </div>
+  <br>
+</div>
+
 
 ### ⚡ Fun Facts
 
