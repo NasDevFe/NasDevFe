@@ -60,6 +60,7 @@
   </div>
   
   <div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
   <a href="Google Data Analytics Certificate - Coursera.jpg" target="_blank">
   <img height="135px" src="Google Data Analytics Certificate - Coursera.jpg" alt="Google Data Analytics Certificate"/>
   </a>
@@ -69,9 +70,14 @@
   <a href="PowerBI Bootcamp Certificate.jpg" target="_blank">
   <img height="125px" src="PowerBI Bootcamp Certificate.jpg" alt="PowerBI Bootcamp Certificate"/>
   </a>
+   <a href="SQL Bootcamp Certificate.jpg" target="_blank">
+  <img height="125px" src="SQL Bootcamp Certificate.jpg" alt="SQL Bootcamp Certificate.jpg"/>
+  </a>
   <a href="Google AI Essentials Certificate.jpg" target="_blank">
   <img height="125px" src="Google AI Essentials Certificate.jpg" alt="Google AI Essentials Certificate.jpg"/>
   </div>
+
+
   <br>
 </div>
 
